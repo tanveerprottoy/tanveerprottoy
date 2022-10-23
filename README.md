@@ -1,5 +1,5 @@
 👋 Hi, I’m @tanveerprottoy  
-I am a Software Engineer mainly focused in Backend. Learning everyday from life.
+I am a Developer mainly focused in Backend. Learning everyday from life.
 
 <!---
 tanveerprottoy/tanveerprottoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
