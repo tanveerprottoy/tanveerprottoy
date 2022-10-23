@@ -1,4 +1,4 @@
-👋 Hi, I’m @tanveerprottoy  
+👋 Hi, I’m Tanveer Prottoy  
 I am a Developer mainly focused in Backend. Learning everyday from life.
 
 <!---
