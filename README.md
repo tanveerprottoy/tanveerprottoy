@@ -1,5 +1,5 @@
 👋 Hi, I’m Tanveer Prottoy  
-I am a Developer mainly focused in Backend. Learning everyday from life.
+I am a Programmer with many years of experience working in Software industry. Learning everyday from life.
 
 <!---
 tanveerprottoy/tanveerprottoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
